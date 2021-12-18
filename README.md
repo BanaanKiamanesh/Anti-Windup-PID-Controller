@@ -1,3 +1,3 @@
 # Anti Windup PID Controller C++ Library!
 
-This is a C++ library for Anti Windup PID controllers!
+### This is a C++ library for Anti Windup PID controllers! Plus a Low-Pass Filter on the Derivative Gain(Controlled by the Tau term, the smaller the Tau, the purer the differentiator term becomes). Which Works Better Than the Simple Versions...
